@@ -19,30 +19,37 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
+        While developing applications for{" "}
+        <span className="font-medium">
+          Pharmaceutical and financial services in India and the Netherlands
+        </span>
+        , I decided to broaden my expertise in application development. I
+        enrolled in  
+        <span className="font-medium"> Masters in Information Systems
+          </span> from 
+          <span className="font-medium"> Northeastern University
+            </span>,
+        Boston and learned{" "}
         <span className="font-medium">full-stack web development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
+        problem-solving through brainstorming aspect. I{" "}
+        <span className="underline">love</span> the feeling of finally figuring
+        out a solution to a problem and discuss it with teammates. My core stack
+        is <span className="font-medium">React, Node.js, and MongoDB</span>. I
+        am also an expert in TypeScript and Java. I am always looking to learn
+        new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
-        developer.
+        developer, Site Reliabity Engineer or Full Stack developer.
       </p>
 
       <p>
         <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
+        badminton, making potrait sketches, and definately experimenting in
+        cooking! I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
         <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        learning how to play the guitar, and honing my skills in swimming!
       </p>
     </motion.section>
   );
